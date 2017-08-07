@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "mongoose": "^4.11.5"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
